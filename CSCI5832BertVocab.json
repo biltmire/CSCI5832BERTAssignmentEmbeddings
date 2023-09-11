@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "BERT's Vocab Embeddings - CSCI5832",
+      "tensorShape": [
+        7947,
+        300
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/biltmire/CSCI5832BERTAssignmentEmbeddings/main/BERT_filtered_vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/biltmire/CSCI5832BERTAssignmentEmbeddings/main/BERT_filtered_meta.tsv"
+    }
+  ]
+}
